@@ -13,7 +13,7 @@ particlesJS('particles-js', {
 			value: [ '#2EB67D', '#ECB22E', '#E01E5B', '#36C5F0' ]
 		},
 		shape: {
-			type: 'circle',
+			type: 'image',
 			stroke: {
 				width: 0,
 				color: '#fff'
@@ -22,7 +22,7 @@ particlesJS('particles-js', {
 				nb_sides: 5
 			},
 			image: {
-				src: 'https://cdn.freebiesupply.com/logos/large/2x/slack-logo-icon.png',
+				src: 'https://www.seekpng.com/png/detail/2-26520_neptune-neptune-transparent-background.png',
 				width: 100,
 				height: 100
 			}
