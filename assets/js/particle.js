@@ -22,7 +22,7 @@ particlesJS('particles-js', {
 				nb_sides: 5
 			},
 			image: {
-				src: 'https://www.seekpng.com/png/detail/2-26520_neptune-neptune-transparent-background.png',
+				src: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/Neptune_with_rings_%28transparent_background%29.png',
 				width: 100,
 				height: 100
 			}
